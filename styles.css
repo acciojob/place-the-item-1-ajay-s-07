@@ -3,7 +3,7 @@
 	border: 2px solid black;
 	flex-wrap: wrap;
 	height: 200px;
-	justify-conten: space-between;
+	justify-content: space-between;
 }
 .flex-item{
 	padding: 40px;
